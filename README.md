@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Jaydane Khalid </h1>
-<h3 align="center">A passionate Front-End Developer n Rockin' Dreamer from Indonesia</h3>
+<h3 align="center">A passionate Front-End Developer & Software Engineer from Indonesia</h3>
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=jaykhalid&label=Profile%20views&color=0e75b6&style=flat" alt="jaykhalid" /><a href="https://twitter.com/danealkh" target="blank"><img src="https://img.shields.io/twitter/follow/danealkh?logo=twitter&style=for-the-badge" alt="danealkh" align="right" /></a></span>
 
