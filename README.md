@@ -20,10 +20,10 @@
 </p>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
-<div>&nbsp;</div>
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykhalid&" alt="jaykhalid" /></div>
 
+<div>&nbsp;</div>
 
 
 <!-- - 👋 Hi, I’m @JayKhalid
